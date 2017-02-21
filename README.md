@@ -16,8 +16,8 @@
 
 XGBoost is an optimized distributed gradient boosting library designed to be highly ***efficient***, ***flexible*** and ***portable***.
 It implements machine learning algorithms under the [Gradient Boosting](https://en.wikipedia.org/wiki/Gradient_boosting) framework.
-XGBoost provides a parallel tree boosting(also known as GBDT, GBM) that solve many data science problems in a fast and accurate way.
-The same code runs on major distributed environment(Hadoop, SGE, MPI) and can solve problems beyond billions of examples.
+XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way.
+The same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples.
 
 What's New
 ----------
@@ -29,12 +29,12 @@ What's New
 Ask a Question
 --------------
 * For reporting bugs please use the [xgboost/issues](https://github.com/dmlc/xgboost/issues) page.
-* For generic questions for to share your experience using xgboost please use the [XGBoost User Group](https://groups.google.com/forum/#!forum/xgboost-user/)
+* For generic questions or to share your experience using XGBoost please use the [XGBoost User Group](https://groups.google.com/forum/#!forum/xgboost-user/)
 
 Help to Make XGBoost Better
 ---------------------------
 XGBoost has been developed and used by a group of active community members. Your help is very valuable to make the package better for everyone.
-- Check out [call for contributions](https://github.com/dmlc/xgboost/issues?q=is%3Aissue+is%3Aclosed+label%3Acall-for-contribution) and [Roadmap](https://github.com/dmlc/xgboost/issues/873) to see what can be improved, or open an issue if you want something.
+- Check out [call for contributions](https://github.com/dmlc/xgboost/issues?q=is%3Aissue+label%3Acall-for-contribution+is%3Aopen) and [Roadmap](https://github.com/dmlc/xgboost/issues/873) to see what can be improved, or open an issue if you want something.
 - Contribute to the [documents and examples](https://github.com/dmlc/xgboost/blob/master/doc/) to share your experience with other users.
 - Add your stories and experience to [Awesome XGBoost](demo/README.md).
 - Please add your name to [CONTRIBUTORS.md](CONTRIBUTORS.md) and after your patch has been merged.
